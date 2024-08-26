@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import heroBg from '../assets/img/hero.png';
-import panipatImage from '../assets/img/panipat.jpg';
-import hyderabadImage from '../assets/img/hyderabad.jpg';
+import panipatImage from '../assets/img/Panipat.jpg';
+import hyderabadImage from '../assets/img/Hyderabad.jpg';
 import suratImage from '../assets/img/surat.png';
-import ludhianaImage from '../assets/img/ludhiana.jpg';
+import ludhianaImage from '../assets/img/Ludhiana.jpg';
 import ahmedabadImage from '../assets/img/Ahmedabad.jpg';
 import bangloreImage from '../assets/img/b.jpg';
 import chennaiImage from '../assets/img/c.jpg';
