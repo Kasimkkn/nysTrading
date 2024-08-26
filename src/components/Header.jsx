@@ -27,7 +27,7 @@ const Header = () => {
 
             {/* Main Header */}
             <div className="bg-white shadow-md">
-                <div className={`flex ${isOpen ? 'flex-wrap' : ''} items-center py-4 px-4`}>
+                <div className={`flex ${isOpen ? 'flex-wrap' : 'justify-between'} items-center py-4 px-4`}>
                     {/* Logo */}
                     <div className="flex-shrink-0">
                         <img src={logo} alt="Ruchi Cargo Agency" className="h-12" />
